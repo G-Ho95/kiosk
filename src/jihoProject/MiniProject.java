@@ -28,7 +28,7 @@ class Menu extends JFrame {
 	JLabel menu1 = new JLabel(new ImageIcon("buger.png"));// 5000원
 	JLabel menu1c = new JLabel("수량");
 	JTextField cont1 = new JTextField(3);
-	JButton bt1 = new JButton("담기");
+	JButton bt1 = new JButton("담기"); 
 	JLabel menu2 = new JLabel(new ImageIcon("chicken.png"));
 	JLabel menu2c = new JLabel("수량");
 	JTextField cont2 = new JTextField(3);
